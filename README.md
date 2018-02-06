@@ -2,6 +2,12 @@
 
 ## Front End Development
 
+### React
+
+- All the fundamental React.js concepts, jammed into this single Medium article (Article) - [link](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
+
+- Setup a React Environment Using webpack and Babel (Article) - [link](https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
 ## Back End Development
 
 ### NPM
