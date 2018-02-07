@@ -6,6 +6,8 @@
 
 - Master the Power Behind Javascript’s Logical Operators (Article) - [link](https://codeburst.io/javascript-and-logical-operators-89b2ac3409f8)
 
+- Master Javascript’s New, Cutting-Edge Object Spread Operator (Article) - [link](https://codeburst.io/master-javascripts-object-spread-operator-3803430e99aa)
+
 ### React
 
 - All the fundamental React.js concepts, jammed into this single Medium article (Article) - [link](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
