@@ -4,9 +4,10 @@
 
 ### JavaScript
 
-- Master the Power Behind Javascript’s Logical Operators (Article) - [link](https://codeburst.io/javascript-and-logical-operators-89b2ac3409f8)
-
-- Master Javascript’s New, Cutting-Edge Object Spread Operator (Article) - [link](https://codeburst.io/master-javascripts-object-spread-operator-3803430e99aa)
+| Title | Type | Link |
+| --- | --- | --- |
+| Master the Power Behind Javascript’s Logical Operators | Article | [link](https://codeburst.io/master-javascripts-object-spread-operator-3803430e99aa) |
+| Master Javascript’s New, Cutting-Edge Object Spread Operator | Article | [link](https://codeburst.io/master-javascripts-object-spread-operator-3803430e99aa) |
 
 ### React
 
