@@ -7,6 +7,7 @@
 | Title | Type | Link |
 | --- | --- | --- |
 | Complete Guide to Flexbox | Article | [link](https://css-tricks.com/snippets/css/a-guide-to-flexbox) |
+| How to Use CSS Animations Like a Pro | Article | [link](https://stories.jotform.com/how-to-use-css-animations-like-a-pro-dfacc1e97338) |
 
 ### JavaScript
 
