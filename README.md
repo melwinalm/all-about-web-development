@@ -51,6 +51,7 @@
 | How to handle errors in Express | Article | [link](https://nemethgergely.com/error-handling-express-async-await/index.html) |
 | Introduction to NPM Scripts | Article | [link](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633) |
 | Microservice Architecture: All the best practices you need to know | Article | [link](http://codingsans.com/blog/microservice-architecture-best-practices)|
+| Node Hero - Node.js Authentication using Passport.js | Article | [link](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/) |
 | Putting the helmet on – Securing your Express app | Article | [link](https://www.twilio.com/blog/2017/11/securing-your-express-app.html) |
 | Web Scraping in Node.js with Multiple Examples | Article | [link](https://hackprogramming.com/web-scraping-in-node-js-with-multiple-examples) |
 
