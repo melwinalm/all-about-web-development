@@ -2,6 +2,12 @@
 
 ## Front End Development
 
+### CSS
+
+| Title | Type | Link |
+| --- | --- | --- |
+| Complete Guide to Flexbox | Article | [link](https://css-tricks.com/snippets/css/a-guide-to-flexbox) |
+
 ### JavaScript
 
 | Title | Type | Link |
