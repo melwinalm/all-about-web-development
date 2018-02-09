@@ -71,4 +71,5 @@
 
 | Title | Type | Link |
 | --- | --- | --- |
+| Build Your First Python and Django Application | Article | [link](https://scotch.io/tutorials/build-your-first-python-and-django-application) |
 | How to use Twitter’s API | Article | [link](https://towardsdatascience.com/how-to-use-twitters-api-c3e25c2ad8fe) |
