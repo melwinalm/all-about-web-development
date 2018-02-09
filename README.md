@@ -23,6 +23,7 @@
 | Functional setState is the future of React | Article | [link](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b) |
 | How to greatly improve your React app performance | Article | [link](https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6) |
 | Immutability in JavaScript using Redux | Article | [link](https://www.toptal.com/javascript/immutability-in-javascript-using-redux) |
+| Leveling Up With React | Article - Best | [part1](https://css-tricks.com/learning-react-router), [part2](https://css-tricks.com/learning-react-container-components), [part3](https://css-tricks.com/learning-react-redux/) |
 | Optimizing the Performance of Your React Application | Article | [link](https://auth0.com/blog/optimizing-react) |
 |  Our Best Practices for Writing React Components | Article | [link](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8) |
 | React, Inline Functions, and Performance | Article | [link](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578) |
