@@ -48,6 +48,7 @@
 | How to handle errors in Express | Article | [link](https://nemethgergely.com/error-handling-express-async-await/index.html) |
 | Microservice Architecture: All the best practices you need to know | Article | [link](http://codingsans.com/blog/microservice-architecture-best-practices)|
 | Putting the helmet on – Securing your Express app | Article | [link](https://www.twilio.com/blog/2017/11/securing-your-express-app.html) |
+| Web Scraping in Node.js with Multiple Examples | Article | [link](https://hackprogramming.com/web-scraping-in-node-js-with-multiple-examples) |
 
 ### NPM
 
