@@ -36,10 +36,11 @@
 
 | Title | Type | Link |
 | --- | --- | --- |
-| Microservice Architecture: All the best practices you need to know | Article | [link](http://codingsans.com/blog/microservice-architecture-best-practices)|
-| How to handle errors in Express | Article | https://nemethgergely.com/error-handling-express-async-await/index.html |
-| Putting the helmet on – Securing your Express app | Article | [link](https://www.twilio.com/blog/2017/11/securing-your-express-app.html) |
 | Async/await - A thorough example | Article | [link](https://kostasbariotis.com/async-await-a-thorough-example) |
+| Authenticate a Node.js API with JSON Web Tokens | Article | [link](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens) |
+| How to handle errors in Express | Article | [link](https://nemethgergely.com/error-handling-express-async-await/index.html) |
+| Microservice Architecture: All the best practices you need to know | Article | [link](http://codingsans.com/blog/microservice-architecture-best-practices)|
+| Putting the helmet on – Securing your Express app | Article | [link](https://www.twilio.com/blog/2017/11/securing-your-express-app.html) |
 
 ### NPM
 
