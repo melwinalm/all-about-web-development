@@ -35,6 +35,7 @@
 | Optimizing the Performance of Your React Application | Article | [link](https://auth0.com/blog/optimizing-react) |
 |  Our Best Practices for Writing React Components | Article | [link](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8) |
 | React Getting Started — The MERN Stack Tutorial! (feat. ES6!) | Article | [link](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50) |
+| React’s Five Fingers of Death. Master these five concepts, then master React | Article | [link](https://medium.freecodecamp.org/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)|
 | React.js in patterns | Article | [link](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns) |
 | React, Inline Functions, and Performance | Article | [link](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578) |
 | Simple React Patterns | Article | [link](http://lucasmreis.github.io/blog/simple-react-patterns) |
