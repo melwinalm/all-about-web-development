@@ -7,6 +7,7 @@
 | Title | Type | Link |
 | --- | --- | --- |
 | Complete Guide to Flexbox | Article | [link](https://css-tricks.com/snippets/css/a-guide-to-flexbox) |
+| CSS Naming Conventions that Will Save You Hours of Debugging | Article - Best | [link](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849) |
 | How to Use CSS Animations Like a Pro | Article | [link](https://stories.jotform.com/how-to-use-css-animations-like-a-pro-dfacc1e97338) |
 | How Flexbox works — explained with big, colorful, animated gifs | Article | [link](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35) |
 
