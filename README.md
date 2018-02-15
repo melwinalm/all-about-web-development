@@ -46,6 +46,7 @@
 
 | Title | Type | Link |
 | --- | --- | --- |
+| 4 AJAX Patterns For Vue.js Apps | Article | [likn](https://vuejsdevelopers.com/2017/08/28/vue-js-ajax-recipes/) |
 | 7 Ways To Define A Component Template in Vue.js | Article | [link](https://vuejsdevelopers.com/2017/03/24/vue-js-component-templates/) |
 
 ## Back End Development
