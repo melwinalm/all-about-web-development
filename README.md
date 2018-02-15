@@ -44,6 +44,10 @@
 | Setup a React Environment Using webpack and Babel | Article | [link](https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel) |
 | The 100% correct way to structure a React app (or why there’s no such thing) | Article | [link](https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed) |
 
+| Title | Type | Link |
+| --- | --- | --- |
+| 7 Ways To Define A Component Template in Vue.js | Article | [link](https://vuejsdevelopers.com/2017/03/24/vue-js-component-templates/) |
+
 ## Back End Development
 
 ### Node.js
