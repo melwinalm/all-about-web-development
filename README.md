@@ -85,3 +85,10 @@
 | Build Your First Python and Django Application | Article | [link](https://scotch.io/tutorials/build-your-first-python-and-django-application) |
 | How to Build a Simple Auto-Login Bot with Python and Selenium | Article | [link](https://www.hongkiat.com/blog/automate-create-login-bot-python-selenium) |
 | How to use Twitter’s API | Article | [link](https://towardsdatascience.com/how-to-use-twitters-api-c3e25c2ad8fe) |
+
+
+## Security
+
+| Title | Type | Link |
+| --- | --- | --- |
+| 12 best practices for user account, authorization and password management | Article | [link](https://cloudplatform.googleblog.com/2018/01/12-best-practices-for-user-account.html) |
