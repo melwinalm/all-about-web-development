@@ -93,3 +93,9 @@
 | Title | Type | Link |
 | --- | --- | --- |
 | 12 best practices for user account, authorization and password management | Article | [link](https://cloudplatform.googleblog.com/2018/01/12-best-practices-for-user-account.html) |
+
+## Programming Concepts
+
+| Title | Type | Link |
+| --- | --- | --- |
+| SOLID Principles made easy | Article | [link](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf) |
