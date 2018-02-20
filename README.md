@@ -19,6 +19,7 @@
 | Learning JavaScript Design Patterns | Book | [link](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) |
 | Master Javascript’s New, Cutting-Edge Object Spread Operator | Article | [link](https://codeburst.io/master-javascripts-object-spread-operator-3803430e99aa) |
 | Master the Power Behind Javascript’s Logical Operators | Article | [link](https://codeburst.io/master-javascripts-object-spread-operator-3803430e99aa) |
+| Service workers: the little heroes behind Progressive Web Apps | Article | [link](https://medium.freecodecamp.org/service-workers-the-little-heroes-behind-progressive-web-apps-431cc22d0f16) |
 
 ### React
 
