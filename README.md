@@ -100,3 +100,4 @@
 | Title | Type | Link |
 | --- | --- | --- |
 | SOLID Principles made easy | Article | [link](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf) |
+| What is software testing? What are the different types of testing? | Article | [link](https://www.codeproject.com/Tips/351122/What-is-software-testing-What-are-the-different-ty) |
