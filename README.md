@@ -107,3 +107,4 @@
 | Title | Type | Link |
 | --- | --- | --- |
 | Test a website's performance | Web App | [link](https://www.webpagetest.org) |
+| Google Spreadsheets and Python | Article | [link](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html) |
