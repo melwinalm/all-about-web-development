@@ -16,6 +16,7 @@
 | Title | Type | Link |
 | --- | --- | --- |
 | A Beginner’s Guide to Currying in Functional JavaScript | Article | [link](https://www.sitepoint.com/currying-in-functional-javascript/) |
+| ES6 for Beginners | Article |  |
 | JavaScript Promises: An Introduction | Article - Best | [link](https://developers.google.com/web/fundamentals/primers/promises) |
 | Learning JavaScript Design Patterns | Book | [link](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) |
 | Master Javascript’s New, Cutting-Edge Object Spread Operator | Article | [link](https://codeburst.io/master-javascripts-object-spread-operator-3803430e99aa) |
