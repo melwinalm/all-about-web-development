@@ -18,6 +18,7 @@
 | A Beginner’s Guide to Currying in Functional JavaScript | Article | [link](https://www.sitepoint.com/currying-in-functional-javascript/) |
 | ES6 for Beginners | Article | [link](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be) |
 | JavaScript Promises: An Introduction | Article - Best | [link](https://developers.google.com/web/fundamentals/primers/promises) |
+| JavaScript: Learn Promises | Article | [link](https://codeburst.io/javascript-learn-promises-f1eaa00c5461) |
 | Learning JavaScript Design Patterns | Book | [link](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) |
 | Master Javascript’s New, Cutting-Edge Object Spread Operator | Article | [link](https://codeburst.io/master-javascripts-object-spread-operator-3803430e99aa) |
 | Map vs ForEach | Article | [link](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f) |
