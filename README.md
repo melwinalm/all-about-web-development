@@ -15,6 +15,7 @@
 
 | Title | Type | Link |
 | --- | --- | --- |
+| 23 JavaScript Design Patterns | Article | [link](https://boostlog.io/@sonuton/23-javascript-design-patterns-5adb006847018500491f3f7f) |
 | A Beginner’s Guide to Currying in Functional JavaScript | Article | [link](https://www.sitepoint.com/currying-in-functional-javascript/) |
 | ES6 for Beginners | Article | [link](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be) |
 | JavaScript Promises: An Introduction | Article - Best | [link](https://developers.google.com/web/fundamentals/primers/promises) |
