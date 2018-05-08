@@ -90,6 +90,7 @@
 
 | Title | Type | Link |
 | --- | --- | --- |
+| Building a Weather App in Django | Article (Best article to get started with Django )| [link](https://scotch.io/tutorials/building-a-weather-app-in-django) |
 | Build Your First Python and Django Application | Article | [link](https://scotch.io/tutorials/build-your-first-python-and-django-application) |
 | How to Build a Simple Auto-Login Bot with Python and Selenium | Article | [link](https://www.hongkiat.com/blog/automate-create-login-bot-python-selenium) |
 | How to use Twitter’s API | Article | [link](https://towardsdatascience.com/how-to-use-twitters-api-c3e25c2ad8fe) |
