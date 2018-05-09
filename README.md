@@ -70,6 +70,7 @@
 | Authenticate a Node.js API with JSON Web Tokens | Article | [link](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens) |
 | Gulp for Beginners | Article - Best | [link](https://css-tricks.com/gulp-for-beginners/) |
 | How to handle errors in Express | Article | [link](https://nemethgergely.com/error-handling-express-async-await/index.html) |
+| Implementing SOLID and the onion architecture in Node.js with TypeScript and InversifyJS | Article | [link](https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad) |
 | Introduction to NPM Scripts | Article | [link](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633) |
 | Microservice Architecture: All the best practices you need to know | Article | [link](http://codingsans.com/blog/microservice-architecture-best-practices)|
 | Node Hero - Node.js Authentication using Passport.js | Article | [link](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/) |
