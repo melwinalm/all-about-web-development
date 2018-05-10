@@ -17,7 +17,7 @@
 | --- | --- | --- |
 | 23 JavaScript Design Patterns | Article | [link](https://boostlog.io/@sonuton/23-javascript-design-patterns-5adb006847018500491f3f7f) |
 | A Beginner’s Guide to Currying in Functional JavaScript | Article | [link](https://www.sitepoint.com/currying-in-functional-javascript/) |
-| Advanced Node.js Project Structure Tutorial | Article | link](https://blog.codeship.com/advanced-node-js-project-structure-tutorial/) |
+| Advanced Node.js Project Structure Tutorial | Article | [link](https://blog.codeship.com/advanced-node-js-project-structure-tutorial/) |
 | ES6 for Beginners | Article | [link](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be) |
 | JavaScript Promises: An Introduction | Article - Best | [link](https://developers.google.com/web/fundamentals/primers/promises) |
 | JavaScript: Learn Promises | Article | [link](https://codeburst.io/javascript-learn-promises-f1eaa00c5461) |
