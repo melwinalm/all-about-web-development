@@ -2,6 +2,12 @@
 
 ## Front End Development
 
+### UI/UX
+
+| Title | Type | Link |
+| --- | --- | --- |
+| Don't user the placeholder attribute | Article | [here](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)|
+
 ### CSS
 
 | Title | Type | Link |
